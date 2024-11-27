@@ -1,10 +1,11 @@
-// Font import
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Poppins:wght@400;500;600;700&family=Roboto:wght@400;500;700&display=swap');
+// FONTS
+  // Font import
+    @import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Poppins:wght@400;500;600;700&family=Roboto:wght@400;500;700&display=swap');
 
-// Font settings
-$default__font__family: "Roboto", "Poppings", "Lato", serif;
-$default__font__weight: 400;
-$medium__font__weight: 700;
-$bold__font__weight: 700;
-$default__font__style: normal;
+  // Font settings
+    $default__font__family: "Roboto", "Poppings", "Lato", serif;
+    $default__font__weight: 400;
+    $medium__font__weight: 700;
+    $bold__font__weight: 700;
+    $default__font__style: normal;
 
